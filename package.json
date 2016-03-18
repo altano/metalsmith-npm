@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-npm",
+  "version": "0.0.1",
+  "description": "Metalsmith plugin to include npm modules in your globals.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altano/metalsmith-npm.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin"
+  ],
+  "author": "Alan Norbauer <altano@gmail.com> (http://alan.norbauer.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altano/metalsmith-npm/issues"
+  },
+  "homepage": "https://github.com/altano/metalsmith-npm#readme"
+}
